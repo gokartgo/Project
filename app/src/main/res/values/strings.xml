@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="notification">Notification</string>
+    <string name="channel_name">test channel project</string>
+    <string name="channel_description">test channel description</string>
+    <!-- admin fragment login -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <!-- register fragment -->
+    <string name="your_sex_register">sex</string>
+    <string name="head_student_id">Student ID</string>
+    <string name="head_age">Age</string>
+    <string name="head_company">Company</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_surname">Your Surname</string>
+    <string name="your_age">Age</string>
+    <string name="your_company">Company</string>
+    <string name="student_id">Student ID</string>
+    <string name="head_position">Position</string>
+    <string name="your_position">Position</string>
+    <string name="username_register">Username</string>
+    <string name="password_register">Password</string>
+    <string name="re_password_register">Re-Password</string>
+    <string name="register_button">Register</string>
+    <string name="ok_button">OK</string>
+    <!-- hamburger icon -->
+    <string name="open_drawer">Open Menu</string>
+    <string name="close_drawer">Close Menu</string>
+
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>

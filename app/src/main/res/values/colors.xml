@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <!-- select user -->
+    <color name="select_admin">#00b5b7</color>
+    <!-- admin login -->
+    <color name="button_login">#00b5b7</color>
+    <color name="button_register">#53778e</color>
+    <color name="text_color_text_login">#babac4</color>
+    <!-- register fragment -->
+    <color name="text_color_text_register">#babac4</color>
+    <color name="text_button_user_main_fragment">#00b5b7</color>
+</resources>

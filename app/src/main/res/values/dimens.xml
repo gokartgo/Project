@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawer_menu_width">240dp</dimen>
+    <!-- login fragment -->
+    <dimen name="login_register_text_size">16sp</dimen>
+    <!-- register fragment -->
+    <dimen name="header_register_text_size">20sp</dimen>
+    <dimen name="register_text_size">16sp</dimen>
+</resources>

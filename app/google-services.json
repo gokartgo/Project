@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "956068957358",
+    "firebase_url": "https://project-iot-d2603.firebaseio.com",
+    "project_id": "project-iot-d2603",
+    "storage_bucket": "project-iot-d2603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956068957358:android:c8d7e37c52e179ff",
+        "android_client_info": {
+          "package_name": "ite.kmitl.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956068957358-74ftn4v15q2vphmscerpal5sn9fb0ofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOzXsMlcCkT-LJAA16o1TWsscJ1i8FgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
